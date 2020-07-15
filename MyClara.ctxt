@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ method\r\n\ \r\n\ Runs\ of\ every\ frame\r\n
+comment1.params=
+comment1.target=void\ moveUp()
+comment2.params=
+comment2.target=void\ moveDown()
+comment3.params=
+comment3.target=void\ moveLeft()
+comment4.params=
+comment4.target=void\ moveRight()
+comment5.params=
+comment5.target=void\ eatMushroom()
+comment6.params=
+comment6.target=void\ eatLeaf()
+comment7.params=
+comment7.target=void\ animateClara()
+comment8.params=
+comment8.target=void\ levelUp()
+comment9.params=
+comment9.target=void\ claraDead()
+numComments=10

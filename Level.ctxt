@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Level()
+comment0.text=\r\n\ Creates\ and\ sets\ up\ the\ Pac-Man\ level.\r\n
+comment1.params=inLevel\ levelNum
+comment1.target=Level(char[][],\ int)
+comment1.text=\r\n\ Creates\ and\ sets\ up\ the\ level\ for\ an\ array\r\n
+comment2.params=level
+comment2.target=void\ generateLevel(char[][])
+comment2.text=\r\n\ Reads\ through\ the\ level\ array\ and\ creates\r\n\ objects\ to\ be\ placed\ in\ the\ world\ depending\ on\r\n\ what\ integers\ it\ finds.\r\n\ The\ objects\ it\ creates\ are\ also\ aligned\ by\ the\ levels\r\n\ own\ cell\ size.\r\n
+comment3.params=objectType\ startX\ startY
+comment3.target=void\ addObject(char,\ int,\ int)
+comment3.text=\r\n\ Adds\ an\ object\ specified\ by\ a\ number\r\n\ at\ position\ (x,y)\r\n
+comment4.params=
+comment4.target=GhostHealer\ retrieveGhostHealer()
+comment4.text=\r\n\ Returns\ the\ ghost\ healer\ instance\r\n
+comment5.params=
+comment5.target=MyClara\ retrievePlayer()
+comment5.text=\r\n\ Returns\ the\ player\ character\ instance\r\n
+comment6.params=
+comment6.target=GhostWall\ retrieveGhostWall()
+comment6.text=\r\n\ Returns\ the\ ghost\ wall\ instance\r\n
+comment7.params=
+comment7.target=int\ getLevelNumber()
+comment7.text=\r\n\ Gets\ the\ current\ level\ number\r\n
+numComments=8

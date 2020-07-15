@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ method,\ runs\ on\ every\ frame\r\n
+comment1.params=
+comment1.target=void\ deadAnimation()
+comment2.params=
+comment2.target=void\ scaredAnimation()
+comment3.params=
+comment3.target=void\ animateGhosts()
+numComments=4
